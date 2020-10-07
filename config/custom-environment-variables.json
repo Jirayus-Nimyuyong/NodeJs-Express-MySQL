@@ -1,0 +1,15 @@
+{
+    "app": {
+        "host": "HOST",
+        "port": "PORT"
+    },
+    "author": {
+        "dev": "AUTHOR"
+    },
+    "mysql": {
+        "host": "MYSQL_HOST",
+        "user": "MYSQL_USER",
+        "pass": "MYSQL_PASSWORD",
+        "database": "MYSQL_DATABASE"
+    }
+}
